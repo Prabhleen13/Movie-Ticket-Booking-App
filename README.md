@@ -110,6 +110,5 @@ M.Sc. Information Technology Student
 Feel free to give suggestions or feedback to improve this project!
 
 ---
-
 ⭐ If you like this project, consider giving it a star on GitHub!
 
