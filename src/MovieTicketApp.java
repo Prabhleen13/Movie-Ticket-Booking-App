@@ -500,14 +500,14 @@ public class MovieTicketApp extends JFrame {
         new Thread(() -> {
             try {
                 Properties props = new Properties();
-                props.put("mail.smtp.host", "smtp.gmail.com");
-                props.put("mail.smtp.port", "587");
+                props.put("SMTP YOUR");
+                props.put("SMTP your");
                 props.put("mail.smtp.auth", "true");
                 props.put("mail.smtp.starttls.enable", "true");
 
                 // REPLACE WITH YOUR EMAIL AND PASSWORD/APP PASSWORD
-                final String username = "leenprabh1316@gmail.com";
-                final String password = "xcilgqiyzubcllwq";
+                final String username = "Your mail";
+                final String password = "password";
 
                 Session session = Session.getInstance(props, new Authenticator() {
                     protected PasswordAuthentication getPasswordAuthentication() {
