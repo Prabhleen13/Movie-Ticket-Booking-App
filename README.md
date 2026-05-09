@@ -102,7 +102,8 @@ Example:
 
 **Prabhleen Kaur**  
 **Minal Sood**
-M.Sc. Information Technology Students  
+
+(M.Sc. Information Technology Students)  
 
 ---
 
