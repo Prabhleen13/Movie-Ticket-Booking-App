@@ -101,7 +101,8 @@ Example:
 ## 👩‍💻 Author
 
 **Prabhleen Kaur**  
-M.Sc. Information Technology Student  
+**Minal Sood**
+M.Sc. Information Technology Students  
 
 ---
 
